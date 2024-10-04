@@ -1,0 +1,18 @@
+body{
+    background-color:aqua
+}
+.text {
+    background-color:darkkhaki;
+    padding: 50px;
+    width: 610px;
+    margin-left: 5%;
+    margin-top: 70px;
+}
+#logo {
+    width: 400px;
+    height: 400px;
+}
+#cabezera{
+    margin-left: 70%;
+    padding: 300px;
+}
